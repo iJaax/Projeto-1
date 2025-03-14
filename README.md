@@ -26,5 +26,6 @@ Caso o usuário escolha sair (opção 5), o programa encerra.
    ```bash
    chmod +x calculadora.sh
 2. Execute o arquivo no terminal:
+   ```bash
    ./calculadora.sh
 3. O script iniciará a calculadora interativa, e você poderá realizar as operações matemáticas de soma, subtração, multiplicação e divisão. O programa continuará até que a opção de sair seja escolhida.
